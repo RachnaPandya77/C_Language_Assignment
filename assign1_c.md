@@ -1,4 +1,4 @@
-# Basic Logic Program
+# 1. Basic Logic Program
 ---
 ### Display this information using printf : 
 * Your Name
@@ -23,4 +23,4 @@ void main(){
 <hr>
 <hr>
 
-# Write a program to make Simple calculator (to make addition, subtraction,multiplication, division and modulo)
+# 2. Write a program to make Simple calculator (to make addition, subtraction,multiplication, division and modulo)

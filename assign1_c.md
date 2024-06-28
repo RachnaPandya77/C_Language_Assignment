@@ -1,6 +1,6 @@
-# 1. Basic Logic Program
+#  Basic Logic Program
 ---
-### Display this information using printf : 
+## 1. Display this information using printf : 
 * Your Name
 * Your Birth-date
 * Your Age
@@ -23,4 +23,4 @@ void main(){
 <hr>
 <hr>
 
-# 2. Write a program to make Simple calculator (to make addition, subtraction,multiplication, division and modulo)
+## 2. Write a program to make Simple calculator (to make addition, subtraction,multiplication, division and modulo)

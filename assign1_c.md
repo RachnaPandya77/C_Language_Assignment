@@ -20,7 +20,5 @@ void main(){
 
 }
 ```
-<hr>
-<hr>
 
-## 2. Write a program to make Simple calculator (to make addition, subtraction,multiplication, division and modulo)
+

@@ -19,4 +19,6 @@ void main(){
     printf("Sub= %d\n", sub);
     printf("Mul= %d\n", mul);
     printf("Div= %d\n", div);
+
+
     }

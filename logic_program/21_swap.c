@@ -5,8 +5,7 @@ void main()
     printf("Accept '2' numbers from user and swap 2 numbers with using '3'rd variable and without using '3'rd variable\n");
     printf("\n");
     printf("without using 3rd variable");
-    printf("\n");
-    // a=10  b=20
+    printf("\n");// a=10  b=20
     // a=a+b      b=a-b        a=a-b
     // 10+20=30   30-20=10     30-10=20
     // a=30       b=10         a=20
@@ -33,6 +32,7 @@ void main()
     // c=a        (?)c=a(10)     c=10
     // a=b        (10)a=b(20)    a=20
     // b=c            b=c(10)    b=10
+    
     int c, d, e;
     printf("\n");
     printf("with 3rd variable\n");

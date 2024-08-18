@@ -4,7 +4,7 @@
 //l = 0.1*s
 //rs = s - i - l
 
-int main(){
+void main(){
     printf("Accept monthly salary from the user and deduct '10%' insurance premium, '10%' loan installment find out of remaining salary\n");
 
     float salary , insurance, loan, rs;
@@ -23,7 +23,7 @@ int main(){
 
 
 
-    return 0;
+   
 }
 
 

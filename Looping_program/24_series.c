@@ -11,4 +11,5 @@ void main()
 
     sum = n * (n + 1) / 2;
     printf("sum of num from 1 to %d = %d\n", n, sum);
+
 }

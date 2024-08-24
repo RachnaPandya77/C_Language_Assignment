@@ -4,19 +4,18 @@
 
 int main()
 {
-    char str[100];
-    int length = 0;
+    char str[10];
+    int i;
 
     printf("Enter a string: ");
     scanf("%s", str);
 
-    // Calculate length of string
-    while (str[length] != '\0')
-    {
-        length++;
-    }
+    printf("Individual characters:\n");
 
-    printf("Length of the string: %d\n", length);
+    for (i = 0; str[i] != '\0'; i++) // chech if char isn't equal to 0 ...if it's not 0 then loop continues
+    {
+        printf("%c\n", str[i]);
+    }
 
     return 0;
 }

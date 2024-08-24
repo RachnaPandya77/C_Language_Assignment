@@ -4,7 +4,7 @@
 
 void main()
 {
-    int num, factorial;
+    int num, factorial = 1; // initialize factorial with 1 //updated
 
     printf("Enter number: ");
     scanf("%d", &num);
